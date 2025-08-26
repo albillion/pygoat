@@ -1,4 +1,4 @@
-FROM python:3.14.0rc2-slim-trixie
+FROM python:3.14.0rc2-alpine3.22
 
 # set up the psycopg2
 # set up the psycopg2
